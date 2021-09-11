@@ -5,3 +5,4 @@ linha4 para teste
 linha5 para teste
 linha6 para teste
 linha7 para teste - local
+linha7 para teste - git
